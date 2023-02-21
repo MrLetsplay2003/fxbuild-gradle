@@ -26,7 +26,7 @@ import me.mrletsplay.mrcore.http.HttpRequest;
 
 public class FXBuildGradlePlugin implements Plugin<Project> {
 
-	private static final String FXLOADER_URL = "https://maven.graphite-official.com/me/mrletsplay/FXLoader/%s/FXLoader-%s.jar";
+	private static final String FXLOADER_URL = "https://maven.graphite-official.com/releases/me/mrletsplay/FXLoader/%s/FXLoader-%s.jar";
 
 	@Override
 	public void apply(Project project) {
