@@ -5,10 +5,10 @@ plugins {
 }
 
 group 'me.mrletsplay'
-version '1.0'
+version '1.1'
 
 ext {
-	fxloaderVersion = "1.1"
+	fxloaderVersion = "1.2"
 }
 
 repositories {
